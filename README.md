@@ -2,11 +2,11 @@
 <h3 align="center">A passionate Software Engineer from India</h3>
 
 
-# 💫 About Me:
-<img align="right" alt="coding" height="300" width="500" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+# 💫 About Me: 
+<img align="right" alt="coding" height="350" width="550" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 
-👨‍💻 I’m currently working on Backend Technologies<br><br>🌱 I’m currently learning Spring Boot, DevOps<br><br>👨‍💻 All of my projects are available at here<br><br>💬 Ask me about Java, Python<br><br>📫 How to reach me karanchaudhari722@gmail.com<br><br>
+👨‍💻 I’m currently working on Backend Technologies<br><br>🌱 I’m currently learning Spring Boot, DevOps<br><br>👨‍💻 All of my projects are available at here<br><br>💬 Ask me about Java, Python<br><br>📫 How to reach me karanchaudhari722@gmail.com<br><br><br><br>
 
 
 ## 🌐 Socials:

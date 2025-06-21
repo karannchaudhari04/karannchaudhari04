@@ -20,7 +20,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=karannchaudhari04&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 ## GitHub Stats:
 <div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=@basharkhan7776&theme=aura_dark&hide_border=false" alt="GitHub Streak Stats"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=@karannchaudhari04&theme=aura_dark&hide_border=false" alt="GitHub Streak Stats"/>
 </div>
 <br/>
 

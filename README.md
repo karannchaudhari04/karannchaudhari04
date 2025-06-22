@@ -3,14 +3,21 @@
 
 
 # 💫 About Me:
-<img align="right" alt="coding" height="250" width="450" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
+<img align="right" alt="coding" width="350" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"/>
 
-👨‍💻 I’m currently working on Backend Technologies<br><br>🌱 I’m currently learning Spring Boot, DevOps<br><br>👨‍💻 All of my projects are available at here<br><br>💬 Ask me about Java, Python<br><br>📫 How to reach me karanchaudhari722@gmail.com<br><br>
+- 👨‍💻 I’m a **Full Stack Developer** specializing in the **MERN Stack** (MongoDB, Express.js, React.js, Node.js)
+- 🧠 Currently exploring **DevOps**, **Authentication**, **Cloud Deployments**, and **Clean Architecture**
+- 🌱 I’m learning advanced concepts in **Backend Engineering** and **System Design**
+- 🔗 Check out my work on [GitHub](https://github.com/karannchaudhari04?tab=repositories)
+- 📬 Reach me at: [karanchaudhari722@gmail.com](mailto:karanchaudhari722@gmail.com)
+
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karan-chaudhari-a7801a2a6/) <br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karan-chaudhari-a7801a2a6/)
+[![X](https://img.shields.io/badge/X-000000.svg?logo=twitter&logoColor=white)](https://x.com/karannchaudhari)
+<br>
 
 
 # 💻 Tech Stack:

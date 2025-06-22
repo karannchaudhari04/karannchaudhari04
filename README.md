@@ -47,11 +47,11 @@
     <td align="center">
       <img src="https://img.icons8.com/color/48/000000/tailwindcss.png" alt="Tailwind CSS"/><br/>Tailwind CSS
     </td>
-     <td align="center">
-      <img src="https://vitejs.dev/logo-with-shadow.png" alt="Vite" width="48"/><br/>Vite
-    </td>
   </tr>
   <tr>
+    <td align="center">
+      <img src="https://vitejs.dev/logo-with-shadow.png" alt="Vite" width="48"/><br/>Vite
+    </td>
     <td align="center">
       <img src="https://img.icons8.com/color/48/java-web-token.png" alt="JWT"/><br/>JWT Auth
     </td>

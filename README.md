@@ -6,7 +6,7 @@
 
 <img align="right" alt="coding" width="350" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"/>
 
-- 👨‍💻 I’m a **Full Stack Developer** specializing in the **MERN Stack** (MongoDB, Express.js, React.js, Node.js)
+- 👨‍💻 I’m a **Full Stack Developer** specializing in the **MERN Stack**
 - 🧠 Currently exploring **DevOps**, **Authentication**, **Cloud Deployments**, and **Clean Architecture**
 - 🌱 I’m learning advanced concepts in **Backend Engineering** and **System Design**
 - 🔗 Check out my work on [GitHub](https://github.com/karannchaudhari04?tab=repositories)

@@ -12,7 +12,6 @@
 - 📬 Reach me at: [karanchaudhari722@gmail.com](mailto:karanchaudhari722@gmail.com)
 
 
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karan-chaudhari-a7801a2a6/)
 [![X](https://img.shields.io/badge/X-000000.svg?logo=twitter&logoColor=white)](https://x.com/karannchaudhari)

@@ -65,13 +65,7 @@
       <img src="https://assets.vercel.com/image/upload/front/favicon/vercel/180x180.png" alt="Vercel" width="48"/><br/>Vercel
     </td>
     <td align="center">
-      <img src="https://avatars.githubusercontent.com/u/57712360?s=200&v=4" alt="Render" width="48"/><br/>Render
-    </td>
-    <td align="center">
       <img src="https://res.cloudinary.com/digblfqti/image/upload/v1750317878/samples/cloudinary-logo-vector.svg" alt="Cloudinary" width="48"/><br/>Cloudinary
-    </td>
-    <td align="center">
-      <img src="https://avatars.githubusercontent.com/u/72518640?s=200&v=4" alt="Zustand" width="48"/><br/>Zustand
     </td>
   </tr>
 </table>

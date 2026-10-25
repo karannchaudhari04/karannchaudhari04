@@ -63,9 +63,6 @@
     <td align="center">
       <img src="https://assets.vercel.com/image/upload/front/favicon/vercel/180x180.png" alt="Vercel" width="48"/><br/>Vercel
     </td>
-    <td align="center">
-      <img src="https://res.cloudinary.com/digblfqti/image/upload/v1750317878/samples/cloudinary-logo-vector.svg" alt="Cloudinary" width="48"/><br/>Cloudinary
-    </td>
   </tr>
 </table>
 
